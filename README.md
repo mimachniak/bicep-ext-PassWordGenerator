@@ -22,7 +22,7 @@ file and `PassWordGenerator`:
     "currentProfile": "AzureCloud"
   },
   "extensions": {
-    "databricksExtension": 
+    "PassWordGenerator": 
   },
   "implicitExtensions": []
 }
