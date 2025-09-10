@@ -4,6 +4,6 @@
     "onlyIfNotExists": true
   },
   "extensions": {
-    "PassWordGenerator": "./PassWordGenerator.BicepLocalExtension/bin/PassWordGenerator"
+    "PassWordGenerator": ".././PassWordGenerator.BicepLocalExtension/bin/PassWordGenerator"
   }
 }
