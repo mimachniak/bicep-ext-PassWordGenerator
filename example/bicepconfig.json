@@ -1,0 +1,8 @@
+{
+  "experimentalFeaturesEnabled": {
+    "localDeploy": true
+  },
+  "extensions": {
+    "PassWordGenerator": "./PassWordGenerator.BicepLocalExtension/bin/PassWordGenerator"
+  }
+}

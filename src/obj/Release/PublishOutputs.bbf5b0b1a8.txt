@@ -1,0 +1,2 @@
+C:\Users\mmach\OneDrive\Skrypty\bicep-extension\PassWordGenerator.BicepLocalExtension\bin\Release\win-x64\publish\PassWordGenerator.pdb
+C:\Users\mmach\OneDrive\Skrypty\bicep-extension\PassWordGenerator.BicepLocalExtension\bin\Release\win-x64\publish\PassWordGenerator.exe
