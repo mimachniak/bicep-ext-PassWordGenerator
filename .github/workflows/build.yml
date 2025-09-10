@@ -21,8 +21,10 @@ jobs:
         with:
           fetch-depth: 0 # avoid shallow clone so nbgv can do its work.
 
-      - name: Setup .NET Core
+      - name: Setup .NET 9
         uses: actions/setup-dotnet@v4
+        with:
+          dotnet-version: '9.0.305'
 
       - name: Build
         run: |
