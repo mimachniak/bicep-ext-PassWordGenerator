@@ -12,7 +12,7 @@ builder.AddBicepExtensionHost(args);
 builder.Services
     .AddBicepExtension(
         name: "PassWordGenerator",
-        version: "0.0.1",
+        version: "0.1.0",
         isSingleton: true,
         typeAssembly: typeof(Program).Assembly)
     .WithResourceHandler<PassWordGeneratorHandler>();
