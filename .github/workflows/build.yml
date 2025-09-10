@@ -26,4 +26,4 @@ jobs:
 
       - name: Build
         run: |
-          dotnet build /home/runner/work/bicep-ext-PassWordGenerator/src/PassWordGenerator.BicepLocalExtension.csproj
+          dotnet build $root/src/PassWordGenerator.BicepLocalExtension.csproj
