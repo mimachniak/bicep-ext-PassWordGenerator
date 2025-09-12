@@ -57,7 +57,7 @@ To execute the all operations, make sure you have:
 * Bicep CLI v0.37.4 or higher
 * An Azure subscription
 
-### Build locally 
+### Build locally
 
 ```powershell
 
@@ -77,7 +77,6 @@ dotnet publish -c Release -r win-x64   --self-contained true /p:PublishSingleFil
 Run bicep publish-extension to bundle all RIDs into one file
 
 ```bicep
-
 bicep publish-extension \
   --bin-osx-arm64   ./bin/Release/osx-arm64/publish/PassWordGenerator \
   --bin-linux-x64   ./bin/Release/linux-x64/publish/PassWordGenerator \
@@ -91,5 +90,7 @@ bicep publish-extension \
 
 ```bicep
 bicep local-deploy main.bicepparam
-
 ```
+
+<!-- Link reference definitions -->
+[00]: ./CHANGELOG.md
