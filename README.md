@@ -22,7 +22,7 @@ file and `PassWordGenerator`:
     "currentProfile": "AzureCloud"
   },
   "extensions": {
-    "PassWordGenerator": "br:bicepextsys4opsacr.azurecr.io/extensions/passwordgenerator:0.1.0"
+    "PassWordGenerator": "br:bicepextsys4opsacr.azurecr.io/extensions/passwordgenerator:0.2.0"
   },
   "implicitExtensions": []
 }
